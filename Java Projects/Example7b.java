@@ -6,7 +6,7 @@ Date:10/4/2022
 import java.util.Scanner;
 import static java.lang.System.*;
 
-public class Example7a
+public class Example7b
 {
     public static void main(String[] args)
     {
